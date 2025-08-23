@@ -1,1 +1,1 @@
-Вторая проектная работа.
+https://github.com/Smeaz/posmotri-v-okno-fd
