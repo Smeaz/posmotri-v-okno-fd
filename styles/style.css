@@ -296,7 +296,7 @@ ol {
 
 .content__card-link:hover {
   text-decoration: underline 1px;
-  text-underline-offset: 3px;
+  text-underline-offset: 2px;
 }
 
 .content__card-link:hover .content__video-card-description {
